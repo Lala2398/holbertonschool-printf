@@ -1,6 +1,6 @@
 #!/bin/sh
 echo ".\" Manpage for printf
-.TH PRINTF 0 \"04 Apr 2025\" \"0.1\" \"DIY User commands\"
+.TH PRINTF 0 \"11 May 2025\" \"0.1\" \"DIY User commands\"
 .SH NAME:
 printf \- prints formatted string (function we've been creating for a week)
 .SH SYNOPSIS:
