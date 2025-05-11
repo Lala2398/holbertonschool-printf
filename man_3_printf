@@ -2,7 +2,7 @@
 echo ".\" Manpage for printf
 .TH PRINTF 0 \"04 Apr 2025\" \"0.1\" \"DIY User commands\"
 .SH NAME:
-printf \- prints formatted string (function we\'ve been creating for a week)
+printf \- prints formatted string (function we've been creating for a week)
 .SH SYNOPSIS:
 .B int
 .B _printf(const char *format, ...);
@@ -32,8 +32,7 @@ This code will print the following output to the stdout stream:
 .br
 **Hello, World!**
 .SH AUTHOR:
-Lala Ibadullayeva  - Lala Ibadullayeva.
-.br
+Lala Ibadullayeva - Lala Ibadullayeva.
 .SH SEE ALSO:
 official printf function: man (1) printf" > _printf.1
 mv _printf.1 /usr/local/man/man1/
